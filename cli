@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+pip install --editable git+https://github.com/akashd11/cli.git#egg=cli
