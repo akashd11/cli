@@ -9,6 +9,6 @@ setup(
     ],
     entry_points='''
     [console_scripts]
-    darwin=cli:cli
+    darwin=cli.cli:cli
     '''
 )
